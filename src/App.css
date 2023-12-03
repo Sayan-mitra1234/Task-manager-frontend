@@ -1,0 +1,19 @@
+
+
+.task{
+  background-image: url("./Images/homepage.jpg");
+  
+  height: 90vh;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -32px;
+}
+p{
+  text-align: center;
+  font-size: 30px;
+  padding: 300px;
+  font-weight: 900;
+  word-spacing: 2px;
+}
